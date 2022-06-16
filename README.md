@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">An Android Developer from Egypt</h3>
+<h3 align="center">Android Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **More About Android, Coroutine, Dagger Hilt... and so on
+- 🌱 I’m currently learning **More About Android, Room db, MVVM , Data Binding , Coroutine, Dagger Hilt... and so on**
 
 - 👨‍💻 All of my projects are available at [https://github.com/m7madmagdy?tab=repositories](https://github.com/m7madmagdy?tab=repositories)
 
