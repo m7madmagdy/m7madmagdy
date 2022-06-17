@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **More About Android, Room db, MVVM , Data Binding , Coroutine, Dagger Hilt... and so on**
 
-- 👨‍💻 All of my projects are available at [https://github.com/m7madmagdy?tab=repositories](https://github.com/m7madmagdy?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/m7madmagdy](https://github.com/m7madmagdy?tab=repositories)
 
 - 📫 How to reach me **+201287303441**
 
