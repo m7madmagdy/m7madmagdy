@@ -11,5 +11,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/m7mad-magdy99)
 </p>
 
-<a href="https://app.daily.dev/m7mad_magdy99"><img src="https://api.daily.dev/devcards/a4d312ea505c4ed68874e116414a516c.png?r=3mh" width="400" alt="Mohamed Magdy's Dev Card"/></a>
+<a href="https://app.daily.dev/m7madmagdy"><img src="https://api.daily.dev/devcards/a4d312ea505c4ed68874e116414a516c.png?r=kly" width="400" alt="Mohamed Magdy's Dev Card"/></a>
 
