@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **+201287303441**
 
-- 📄 Know about my experiences [My CV](https://shorturl.at/iwR69)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/12_ck5B5eg9Gd6-Za9RKntEqnmuJen5gQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
