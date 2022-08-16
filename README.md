@@ -4,7 +4,7 @@
 <br>
  <p align="center">  <a  target="blank">🌱 I’m currently learning Native Android Development</a></p>
  <p align="center">📫 How to reach me  <a  href="mohamedmagdysaber@gmail.com" target="blank">mohamedmagdysaber@gmail.com</a></p>
- <p align="center">📄 Know More about me  <a  href="https://drive.google.com/file/d/12_ck5B5eg9Gd6-Za9RKntEqnmuJen5gQ/view?usp=sharing" target="blank">My CV</a></p>
+ <p align="center">📄 Know More about me  <a  href="https://drive.google.com/file/d/12_ck5B5eg9Gd6-Za9RKntEqnmuJen5gQ/view?usp=sharing" target="blank">Google Drive Resume</a></p>
 
 
 <h3 align="center">Connect with me:</h3>
