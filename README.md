@@ -1,15 +1,21 @@
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
 
-<a href="https://app.daily.dev/m7madmagdy"><img src="https://api.daily.dev/devcards/a4d312ea505c4ed68874e116414a516c.png?r=kly" width="300" align="right" alt="Mohamed Magdy's Dev Card"/></a>
+- 🌱 I’m currently learning **Kotlin, Android ,Ruby On Rails**
 
-# Hi 👋, I'm Mohamed.
-## Sofware Engineer from Egypt.
+- 📫 How to reach me **mohamedmagdysaber@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/m7mad-magdy99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m7mad-magdy99/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/m7madmagdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/m7madmagdy" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/m7madmagdy/" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"
+alt="https://www.codewars.com/users/m7madmagdy" height="40" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 
- #### 📫 How to reach me  <a  href="mohamedmagdysaber@gmail.com" target="blank">mohamedmagdysaber@gmail.com</a></p>
- #### 📄 Know More about me  <a  href="https://drive.google.com/file/d/12_ck5B5eg9Gd6-Za9RKntEqnmuJen5gQ/view?usp=sharing" target="blank">Google Drive Resume</a>
- #### 📱 Mobile:+201287303441
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7madmagdy&show_icons=true&locale=en" alt="m7madmagdy" /></p>
 
- 
-## Connect with me:
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/m7mad_magdy99)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/m7mad-magdy99)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7madmagdy&" alt="m7madmagdy" /></p>
