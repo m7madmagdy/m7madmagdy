@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 
-- 🌱 I’m currently learning **Kotlin, Android and Ruby On Rails**
+- 🌱 I’m currently learning **Ruby & Ruby On Rails, Kotlin and Android Development**
 
 - 📫 How to reach me **mohamedmagdysaber@gmail.com**
 
