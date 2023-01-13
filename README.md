@@ -17,8 +17,8 @@ alt="https://www.codewars.com/users/m7madmagdy" height="40" width="40" /></a>
 <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby/ruby-icon.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://m7madmagdy.github.io/pages/rails.svg" alt="rails" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7madmagdy" alt="m7madmagdy" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7madmagdy&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7madmagdy&show_icons=true&locale=en" alt="m7madmagdy" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m7madmagdy&theme=flag-india&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7madmagdy&" alt="m7madmagdy" /></p>
