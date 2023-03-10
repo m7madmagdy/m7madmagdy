@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mohamedmagdysaber@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uUp3MTLMoqGX4ybQQF7Ul5Td-JaB6Vzy/view?usp=share_link)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1uUp3MTLMoqGX4ybQQF7Ul5Td-JaB6Vzy/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
