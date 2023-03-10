@@ -2,10 +2,6 @@
 
 <h1 align="center">I'm Mohamed Magdy</h1>
 
-<h3 align="center">Backend Software Developer from Egypt</h3>
-
-<hr>
-
 - 🌱 I’m currently learning **Ruby on Rails, Kotlin and Android Development**
 
 - 📫 How to reach me **mohamedmagdysaber@gmail.com**
