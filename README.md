@@ -6,9 +6,7 @@
 
 - 📫 How to reach me **mohamedmagdysaber@gmail.com**
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1uUp3MTLMoqGX4ybQQF7Ul5Td-JaB6Vzy/view?usp=share_link)
-
-[![CodeWars Profile Badge](https://www.codewars.com/users/m7madmagdy/badges/large)](https://www.codewars.com/users/m7madmagdy)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1Yk-Qyuwc-vF1mCCguq8bsmZX1gtQDmQ6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +16,8 @@
 <a href="https://www.codewars.com/users/m7madmagdy/" target="blank"><img src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png"
 alt="https://www.codewars.com/users/m7madmagdy" height="40" width="40" /></a>
 <a href="https://leetcode.com/M7mad-Magdy/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
+
+[![CodeWars Profile Badge](https://www.codewars.com/users/m7madmagdy/badges/large)](https://www.codewars.com/users/m7madmagdy)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
