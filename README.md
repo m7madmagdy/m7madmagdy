@@ -18,6 +18,9 @@ alt="https://www.codewars.com/users/m7madmagdy" height="40" width="40" /></a>
 <a href="https://leetcode.com/M7mad-Magdy/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="priyankeshraj" height="40" width="40" /></a>
 
 [![CodeWars Profile Badge](https://www.codewars.com/users/m7madmagdy/badges/large)](https://www.codewars.com/users/m7madmagdy)
+  
+<img src="https://i.imgur.com/GOdi2iv.png" alt="Metrics" width="60%"> <img src="https://i.imgur.com/GUp4MpX.jpg" alt="Metrics" 
+width="24%">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
