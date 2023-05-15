@@ -4,7 +4,7 @@
 
 - 🌐 Check My [**Profile**](https://flowcv.me/magdy)
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Yk-Qyuwc-vF1mCCguq8bsmZX1gtQDmQ6/view?usp=sharing)
+- 📄 Check My [**Resume**](https://drive.google.com/file/d/1Yk-Qyuwc-vF1mCCguq8bsmZX1gtQDmQ6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
