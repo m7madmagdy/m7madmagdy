@@ -13,6 +13,6 @@
 </p>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=m7madmagdy&theme=flag-india" alt="m7madmagdy" width="200"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7madmagdy&" alt="m7madmagdy" width="220"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=m7madmagdy&theme=flag-india" alt="m7madmagdy" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7madmagdy&" alt="m7madmagdy" width="440"/>
 </div>
