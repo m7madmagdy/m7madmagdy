@@ -13,9 +13,6 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7madmagdy&layout=dem" alt="m7madmagdy" />
-  <div style="display: flex; flex-direction: column; align-items: flex-end;">
-    <img src="https://github-readme-stats.vercel.app/api?username=m7madmagdy&theme=flag-india" alt="m7madmagdy" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7madmagdy&" alt="m7madmagdy" height="150"/>
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=m7madmagdy&theme=flag-india" alt="m7madmagdy" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7madmagdy&" alt="m7madmagdy" />
 </div>
