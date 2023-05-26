@@ -1,9 +1,13 @@
 <h1><strong>Hi, Everyone!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"></h1>
 
 <h3 align="center">
+  
+  🌐 Check My [**Portfolio**](https://flowcv.me/magdy)
+  
+</h3>
 
-  🌐 Check My [**Profile**](https://flowcv.me/magdy)
-
+<h3 align="center">
+  
   📄 Check My [**Resume**](https://drive.google.com/file/d/1Yk-Qyuwc-vF1mCCguq8bsmZX1gtQDmQ6/view?usp=sharing) 
   
 <h3>
