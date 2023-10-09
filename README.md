@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Magdy from Egypt<br><br>- 🔭 I’m working as Ruby on Rails Developer<br>- 📚 I'm currently learning Backend & Android Development</p>
+<p align="left">I'm Mohamed Magdy from Egypt.<br><br>- 🔭 I’m working as Ruby on Rails Developer<br>- 📚 I'm currently learning Backend & Android Development</p>
 
 ###
 
