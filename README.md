@@ -1,10 +1,11 @@
 ###
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey I'm Mohamed Magdy 👋</h1>
 
-<p align="left">I'm <strong>Mohamed Magdy</strong> from Egypt.<br><br>- 🔭 I’m working as Ruby on Rails Developer<br>- 📚 I'm currently learning Backend & Android Development</p>
+<p> I'm a software engineer who loves working on backend projects and mobile development I mainly use Ruby </p>
+
+<p align="left"> - I’m working as Ruby on Rails Developer<br>- I'm currently learning Backend (RoR) & Android Development (Native) </p>
 
 ###
-<h3 align="left">Contacts:</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/m7madmagdy" target="_blank">
@@ -16,8 +17,6 @@
   </a>
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
-
 ###
 
 <p align="center">
@@ -25,10 +24,6 @@
     <img src="https://skillicons.dev/icons?i=ruby,rails,git,docker,androidstudio,aws,css,html,kotlin,githubactions,nginx,linux,postgres,redis,vscode" />
   </a>
 </p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
