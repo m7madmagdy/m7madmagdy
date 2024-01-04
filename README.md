@@ -1,9 +1,8 @@
 ###
-<h1 align="center">Hey I'm Mohamed Magdy 👋</h1>
 
-<p> I'm a software engineer who loves working on backend projects and mobile development I mainly use Ruby </p>
+<h1 align="center">Hi I'm Mohamed Magdy 👋</h1>
 
-<p align="left"> - I’m working as Ruby on Rails Developer<br>- I'm currently learning Backend (RoR) & Android Development (Native) </p>
+<p> I'm a software engineer who loves working on backend projects and mobile development I mainly use Ruby, I’m working as Ruby on Rails Developer </p>
 
 ###
 
