@@ -18,20 +18,6 @@
 
 ###
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,git,docker,androidstudio,aws,css,html,kotlin,githubactions,nginx,linux,postgres,redis,vscode" />
-  </a>
-</p>
-
-###
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=m7madmagdy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m7madmagdy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
